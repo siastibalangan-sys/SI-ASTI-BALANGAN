@@ -4,7 +4,6 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>SI ASTI BALANGAN</title>
-  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lambang_Kabupaten_Balangan.png/640px-Lambang_Kabupaten_Balangan.png" />
   <style>
     html, body {
       margin: 0;
@@ -42,4 +41,5 @@
     </iframe>
   </div>
 </body>
+
 </html>
